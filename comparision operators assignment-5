@@ -1,0 +1,20 @@
+#comparision operators
+# ==
+# !=
+# <
+# >
+# <=
+# >=
+
+print(12==12)
+print(34==45)
+print(450!=568)
+print(67!=67)
+print(34+45<100)
+print(45<10)
+print(50>45)
+print(400>1000)
+print(1200<=50)
+print(25<=45)
+print(34+45>=70)
+print(37>=37)
